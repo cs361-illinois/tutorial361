@@ -591,3 +591,5 @@ FodyWeavers.xsd
 /.iris/
 /iris/iris.data
 /mtcars/
+/lung-cancer/
+/stock/
