@@ -1,5 +1,5 @@
 # CS 361 Example Notebooks
-Last Update: Aug 13, 2020\
+Last Update: Jan 24, 2022\
 Open in Colab: [Link](https://colab.research.google.com/github/danielz02/CS361_Notebook_Collection)
 
 ---
